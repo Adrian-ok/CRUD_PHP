@@ -1,0 +1,13 @@
+#link_container a{
+    padding: 20px;
+}
+
+#form_filtro{
+    margin-top: 24px;
+    padding: 10px;
+    height: 225px;
+}
+
+#form_filtro input{
+    margin-bottom: 15px;
+}
